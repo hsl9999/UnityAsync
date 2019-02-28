@@ -1,0 +1,24 @@
+{
+  "name": "Unity Async",
+  "version": "1",
+  "description": "",
+  "author": "",
+  "contributors": [{
+  "name": "",
+  "twitter": ""
+}],
+  "repository": {
+  "type": "hg",
+  "url": "https://github.com/sorencoder/UnityAsync"
+},
+  "bugs": {
+  "url": "https://github.com/sorencoder/UnityAsync/Issues/"
+},
+  "keywords": [
+  "Unity3D",
+  "Unity",
+  "Async",
+  "UnityAsync"
+], 
+  "license": "BSD"
+}
